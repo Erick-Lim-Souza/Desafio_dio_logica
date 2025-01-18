@@ -21,6 +21,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 ![image](https://github.com/user-attachments/assets/c54a7b94-9002-48f0-96e0-9457164d4a6a)
 
+![image](https://github.com/user-attachments/assets/7de03221-7ea9-4bb0-aaa2-8b761dee2a44)
 
 
 🤖 Tecnologias Utilizadas javascript e VsCode
